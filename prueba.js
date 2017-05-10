@@ -1,5 +1,5 @@
-alert("hola mundo");
+alert("hello world");
 
 $(document).ready(function(){
 
-})
+});
